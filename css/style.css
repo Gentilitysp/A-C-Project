@@ -1,10 +1,10 @@
 #header-img {
-    height: 120px;
+    width: 100vw;
+    height: 200px;
 }
 
-#header-video {
-    height: 80px;
-    width: 100px;
+#video {
+    width: 60vw;
 }
 
 #nav-bar {
